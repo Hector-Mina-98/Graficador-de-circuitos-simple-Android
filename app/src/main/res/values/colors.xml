@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000014</color>
+    <color name="colorPrimaryDark">#000014</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="fondo">#00222b</color>
+    <color name="fondo_campo">#59004455</color>
+    <color name="fondo_item">#37373c</color>
+    <color name="noAdd">#9654a4b9</color>
+    <color name="add">#ff000d</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
